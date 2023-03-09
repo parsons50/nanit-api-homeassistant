@@ -1,0 +1,10 @@
+{
+    "config": {
+        "username": "Nanit username",
+        "password": "Nanit password"
+    },
+    "options": {
+        "light": "Light",
+        "white_noise": "White noise"
+    }
+}

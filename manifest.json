@@ -1,0 +1,6 @@
+{
+    "domain": "nanit",
+    "name": "Nanit API",
+    "documentation": "https://github.com/USERNAME/nanit-api-homeassistant",
+    "dependencies": [],
+    "codeowners": ["USERNAME
